@@ -18,6 +18,6 @@ class Setup {
     // Loading background picture
     backgroundImage = loadImage("BackgroundImage.jpg");
     
-    
+    noStroke();
   }
 }
